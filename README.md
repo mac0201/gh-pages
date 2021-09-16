@@ -1,5 +1,28 @@
 ## Welcome to my GitHub page
 
+
+My name is Maciej Ornowski and I am a Software Engineering Graduate from the UK.
+
+Visit my [GitHub repository](https://github.com/mac0201/)
+
+#### Skills:
+- 1
+- 2
+
+
+#### Interests:
+- 1
+- 2
+
+
+#### Recent Projects:
+- [Project 1](https://github.com/mac0201/)
+- [Project 2](https://github.com/mac0201/)
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/mac0201/gh-pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
