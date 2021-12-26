@@ -2,8 +2,6 @@
 
 ![Image](https://cdn-icons-png.flaticon.com/512/1946/1946429.png)
 
-My name is Maciej Ornowski and I am a Software Engineering Graduate from the UK.
-
 Visit my [GitHub repository](https://github.com/mac0201/)
 
 #### Skills:
